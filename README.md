@@ -2,6 +2,8 @@
 
 Формат - призентация - время 1 час 
 
+https://www.toptal.com/developers/sorting-algorithms - примеры по алгоритмам
+
 ## Темы для модуля
 
 Больше упор сделать на сам vanilla JS, как работает 
