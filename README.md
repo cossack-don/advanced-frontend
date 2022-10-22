@@ -3,6 +3,7 @@
 Формат - призентация - время 1 час 
 
 https://www.toptal.com/developers/sorting-algorithms - примеры по алгоритмам
+https://carbon.now.sh/ - накидать примеры кода в виде картинок
 
 ## Темы для модуля
 
